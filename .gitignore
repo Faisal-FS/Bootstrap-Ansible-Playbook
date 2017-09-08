@@ -1,0 +1,11 @@
+# Log file
+*.log
+
+#hosts
+hosts
+
+# Ansible configuration
+*.cfg*
+
+#public keys
+*.pub
